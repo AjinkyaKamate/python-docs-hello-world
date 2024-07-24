@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'OSSpython'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7B55B5F3475C4922A2523082CB180110 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1BF99C81CDEF4A39A38F1CAC6AB7D3B3 }}
